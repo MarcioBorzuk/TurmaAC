@@ -11,3 +11,7 @@ section{
     display: flex; /*deixa a secção flexível*/
     justify-content: center; /*alinha a secção no centro*/
 }
+
+chamada-texto{
+background-color: rgb(102, 17, 43);   
+}
