@@ -6,4 +6,6 @@ body {
 section{
 
     background-color: brown;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
