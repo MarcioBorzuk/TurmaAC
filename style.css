@@ -8,6 +8,6 @@ section{
     background-color: rgb(42, 165, 89);
     padding-top: 80px;
     padding-bottom: 80px;
-    display: flex;
-    justify-content: center;
+    display: flex; /*deixa a secção flexível*/
+    justify-content: center; /*alinha a secção no centro*/
 }
